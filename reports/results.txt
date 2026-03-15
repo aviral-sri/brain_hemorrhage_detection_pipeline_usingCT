@@ -1,0 +1,6 @@
+
+Validation Accuracy: 1.0
+Test Accuracy: 1.0
+Train size: 102
+Val size: 22
+Test size: 23

@@ -1,0 +1,2 @@
+accuracy,precision,recall,f1_score,auc_roc,train_size,val_size,test_size,epochs_run,model_params,seed,target_shape,hu_center,hu_width
+0.4444444444444444,0.25,0.125,0.16666666666666666,0.575,79,18,18,9,299842,42,"(128, 256, 256)",40,80
